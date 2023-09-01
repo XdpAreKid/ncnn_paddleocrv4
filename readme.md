@@ -21,3 +21,4 @@ This is a sample paddleocr ncnn project
 1.https://github.com/FeiGeChuanShu/ncnn_paddleocr
 2.https://github.com/frotms/PaddleOCR2Pytorch  
 3.https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7  
+4.https://github.com/lxgw/LxgwWenKai
